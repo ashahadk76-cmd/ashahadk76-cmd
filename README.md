@@ -1,5 +1,31 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>MERN Stack based web applications (React, Node.js, Express, MongoDB)<br><br>👯 I’m looking to collaborate on<br>Full-stack MERN projects, startup ideas, and open-source contributions<br><br>🤝 I’m looking for help with<br>Advanced system design, performance optimization, and scalable architectures<br><br>🌱 I’m currently learning<br>Next.js, TypeScript, REST & GraphQL APIs, and backend best practices<br><br>💬 Ask me about<br>JavaScript, React.js, Node.js, Express.js, MongoDB, APIs, and Web Development<br><br>⚡ Fun fact<br>I can turn coffee ☕ into scalable web apps 😄
+# 👋 Hi, I'm [Your Name]
+
+🚀 **MERN Stack Developer** | Building scalable web apps
+
+---
+
+### 🔭 Currently working on
+Full-stack web applications using **MongoDB, Express.js, React, Node.js**
+
+### 👯 Looking to collaborate on
+MERN projects, startup MVPs, and open-source contributions
+
+### 🤝 Looking for help with
+System design, backend optimization, and scalable architecture
+
+### 🌱 Currently learning
+Next.js, TypeScript, GraphQL, REST APIs, and backend best practices
+
+### 💬 Ask me about
+JavaScript, React, Node.js, Express, MongoDB, REST APIs, Web Development
+
+### ⚡ Fun fact
+I turn coffee into production-ready web apps ☕→🚀
+
+---
+
+📫 **Reach me:** [Your Email] | [LinkedIn] | [Portfolio]
 
 
 ## 🌐 Socials:
