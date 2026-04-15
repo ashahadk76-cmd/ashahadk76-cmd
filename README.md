@@ -1,27 +1,26 @@
 # 💫 About Me:
-# 👋 Hi, I'm [Your Name]
+# Ashahad Khan [![Portfolio](https://img.shields.io/badge/-ashahad.dev-000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-psi-six-17.vercel.app/)
 
-🚀 **MERN Stack Developer** | Building scalable web apps
+**Full-Stack Developer** | Next.js Expert | Performance Obsessed
 
 ---
 
-### 🔭 Currently working on
-Full-stack web applications using **MongoDB, Express.js, React, Node.js**
+### 🔧 Tech Stack
 
-### 👯 Looking to collaborate on
-MERN projects, startup MVPs, and open-source contributions
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss)
 
-### 🤝 Looking for help with
-System design, backend optimization, and scalable architecture
+---
 
-### 🌱 Currently learning
-Next.js, TypeScript, GraphQL, REST APIs, and backend best practices
+### 📌 Current focus
+Building scalable Next.js apps • Mastering TypeScript • Backend architecture
 
-### 💬 Ask me about
-JavaScript, React, Node.js, Express, MongoDB, REST APIs, Web Development
-
-### ⚡ Fun fact
-I turn coffee into production-ready web apps ☕→🚀
+📫 **Reach me:** [GitHub](https://github.com/your-username) • [Portfolio](https://my-portfolio-psi-six-17.vercel.app/)
 
 ---
 
