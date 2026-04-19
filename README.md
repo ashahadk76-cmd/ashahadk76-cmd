@@ -23,7 +23,7 @@ Building scalable Next.js apps • Mastering TypeScript • Backend architecture
 
 ---
 
-📫 **Reach me:** [Your Email] | [LinkedIn] | [Portfolio]
+📫 **Reach me:** [ashahadk76@gmail.com] | [[LinkedIn](https://www.linkedin.com/in/ashahad-khan-0b89ab374/)] | [[Portfolio](https://my-portfolio-psi-six-17.vercel.app/)]
 
 
 ## 🌐 Socials:
